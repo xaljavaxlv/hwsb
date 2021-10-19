@@ -18,8 +18,8 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="!!! Aloha !!!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="N9O-qa-HzT">
-                                <rect key="frame" x="32" y="401" width="350" height="94.5"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="79"/>
+                                <rect key="frame" x="32" y="402" width="350" height="92"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="77"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
